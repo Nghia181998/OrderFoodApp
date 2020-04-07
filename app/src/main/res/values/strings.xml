@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OrderFoodApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="table1">Bàn 1</string>
+    <string name="table2">Bàn 2</string>
+    <string name="table3">bàn 3</string>
+    <string name="table4">Bàn 4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
